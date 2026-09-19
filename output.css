@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    cotent="width=device-width, initial-scale=1.0">
+    <title>boarding al-abidin</title>
+    <link rel="stylesheet" href="style2.css">
+    </head>
+    <body>
+    <!--Header-->
+    <header>
+    <h1>Al-Abidin Bilingual boarding school</h1>
+    <p>information and comminication techology program</p>
+    <nav>
+    <a href="Home;html">Home</a>
+    <a href="about">About</a>
+    <a href="programs">Programs</a>
+    <a href="contact">Contact</a>
+    </nav>
+    </header>
+    <!-- program description-->
+    <section>
+    <h2>program description</h2>
+    <p>the ict program is designed to help student develop digital skills.problem-solving abilities,and creatity in technology-based learning.<br>
+    student wil learn web development,programing,database management,and internet of things project through practical activities.</p>
+    </section>
+    <--!Leaning Roadmap>
+    <section>
+    <h2>Road Map</h2>
+    <div class="container"
+    <div class="card"
+    <h3>level X</h3>
+    <p1>HTML,CSS,and JAVASCRPT
+    programming fundaments.</p1>
+    </div>
+    <div class="card"
+    <h3>level XII</h3>
+    <p1>Phyton Programming fundamentals and final project</p1>
+    </div>
+    </div>
+    </section>
+    <!--Gallery-->
+    <h2>Gallery</h2>
+    <div class="container-img"
+    <div class="card-img"
+    <img src="flower1.jpg"
+    </div>
+    <div class="card-img"
+    <img src="flower2.jpg"
+    </div>
+    <div class="card-img"
+    <img src="flower3.jpg"
+    </div>
+    <div class="card-img"
+    <img src="flower4.jpg"
+    </div>
+    </div><br>
+    <!--footer-->
+    <footer>
+    <p>school addres:Surakarta,Central Java,Indonesia</p>
+    </footer>
+    </body>
+    </html>
